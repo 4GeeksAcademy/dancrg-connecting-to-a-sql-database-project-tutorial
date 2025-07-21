@@ -178,4 +178,4 @@ print(df4)
 
 
 # Se ejecuta el actual script de python desde la consola respectiva e imprime las tablas correctamente
-# En la consola de SQL se verifica mediante \d que a la base de datos le fueron anadidas posee dichas tablas
+# En la consola de SQL se verifica mediante \d que a la base de datos le fueron anadidas las tablas
